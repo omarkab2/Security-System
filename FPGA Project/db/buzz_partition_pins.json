@@ -1,0 +1,149 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "V",
+					"strict" : false
+				},
+				{
+					"name" : "LED1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LED1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LED1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LED1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LED1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LED1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "LED2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LED2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LED2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LED2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LED2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LED2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "LED3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LED3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LED3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LED3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LED3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LED4[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LED4[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LED4[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LED4[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LED5[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LED5[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LED5[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LED5[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LED5[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LED6[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LED6[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LED6[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LED6[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LED6[6]",
+					"strict" : false
+				},
+				{
+					"name" : "A",
+					"strict" : false
+				},
+				{
+					"name" : "B",
+					"strict" : false
+				},
+				{
+					"name" : "C",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+library ieee;
+use ieee.std_logic_1164.all;
+entity buzz is
+port( A,B,C: in std_logic; F: out std_logic);
+end buzz;
+architecture arch of buzz is
+begin
+F <= (NOT A and NOT B) OR C;
+end arch;
